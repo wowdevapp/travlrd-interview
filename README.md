@@ -11,4 +11,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 3. Create a `.env` file from the `.env.example` file
 4. Fill in the environment variables (see the `.env.example` file for instructions, you'll need to create a Postgres database on Vercel)
 5. Complete the interview task
-6. Send us the link to your GitHub repo and the link to your deployed app
+6. Send us the link to your GitHub repo and the link to your deployed app (don't forget to set the repo to public)
