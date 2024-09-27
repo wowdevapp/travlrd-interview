@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Interview Task Preparation
 
-1. Clone the repo
+1. Fork the repository
 2. Run `pnpm install`
 3. Follow the steps outlined here: https://nextjs.org/learn/dashboard-app/setting-up-your-database#create-a-postgres-database
   - Initialize a new repository and publish it to Github (also make sure to set the repo to public)
